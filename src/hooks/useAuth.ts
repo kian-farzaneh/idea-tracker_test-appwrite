@@ -1,3 +1,4 @@
+// src/hooks/useAuth.ts
 import { useState, useEffect } from "react";
 import { account } from "../../lib/appwrite";
 import { ID } from "appwrite";
